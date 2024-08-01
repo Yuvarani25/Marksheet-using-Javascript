@@ -1,0 +1,135 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    border: 1px solid black;
+    height: 725px;
+    width: 600px;
+    background-image: url(../assert/HINDUSTHAN\ COLLEGE\ OF\ ENGINEERING\ AND\ TECHNOLOGY\ \(6\).jpg);
+}
+.logo{
+    height: 40px;
+    width: 40px;
+    margin: 10px 0px 0px 50px;
+}
+.qr{
+    height: 45px;
+    width:45px;
+    float: right;
+    margin: 10px;
+}
+h6{
+    margin: 10px 10px 0px 0px;
+}
+span{
+    color: brown;
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid black;
+}
+.row h2{
+    padding: 20px 0px 0px 0px;
+}
+
+
+.marks-table{
+    margin: 0px 20px 20px 0px;
+    width:575px;
+}
+.marks-table label{
+    display: block;
+    margin-bottom: 5px;
+}
+.marks-table input{
+    width: 75px;
+    margin: 10px;
+    margin-bottom: 10px;
+    border: 3px solid rgb(143, 145, 233);
+    border-radius: 5px;
+}
+.marks-table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.marks-table th,
+.marks-table td {
+    padding: 2px;
+    text-align: left;
+    border: 2px solid rgb(34, 50, 118);
+}
+.marks-table th,
+.marks-table td{
+    font-size: 10px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.marks-table th {
+    background-color: rgb(126, 143, 228);
+}
+
+.total-words,.total-marks,.total{
+    color: rgb(55, 55, 196);
+    font-weight: bold;
+}
+.date{
+   float: left;
+   font-size: 10px;
+}
+.result-section{
+    margin-top: 10px;
+}
+.result-section1{
+    margin-top: 20px;
+}
+
+.Signature{
+    float: right;
+    font-size: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+
+}
+footer{
+    text-align: center;
+    font-size: 8px;
+    font-weight: bold;
+} 
+h5,h4{
+    font-size: 12px;
+    font-weight: bold;
+}
+h5{
+    text-align: center;
+}
+.sp{
+    color: rgb(22, 22, 141);
+    font-weight: 800;
+}
+.row1{
+    height: 420px;
+    
+}
+#row2{
+     border-collapse: collapse;
+}
+h3,p{
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+}
+p{
+    color: rgb(22, 22, 141);
+}
+h1{
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(22, 22, 141);
+    text-align: center;
+}
+#head{
+    margin-top: 70px;
+}
